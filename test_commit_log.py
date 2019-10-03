@@ -1,3 +1,3 @@
 
 # Bug fixing
-Bug introducing commit
+Fixing the bug introduced in last commit
